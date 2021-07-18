@@ -1,0 +1,19 @@
+{
+  "name": "azest-tool",
+  "version": "0.0.1",
+  "description": "Npm Tools for Azest,Inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azest-tan/azest-tool.git"
+  },
+  "author": "Azest,Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azest-tan/azest-tool/issues"
+  },
+  "homepage": "https://github.com/azest-tan/azest-tool#readme"
+}
